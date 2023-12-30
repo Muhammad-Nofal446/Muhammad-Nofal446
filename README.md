@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Muhammad-Nofal
-- 👀 I’m interested in Android, Full Stack Web, Python & Machine Learning
-- 🌱 I’m currently learning Full Stack Web Developmet using MERN & Django. 
-- 💞️ I’m looking to collaborate on Machine Learning & Web based AI Projects
+- 👋 Hi, I'm @Muhammad-Nofal
+- 👀 I'm interested in Android, Full Stack Web, Python & Machine Learning
+- 🌱 I'm currently learning Full Stack Web Developmet using MERN & Django.
+- ✔  I'm passionate about learning game development and actively honing my skills in this exciting field! 
+- 💞️ I'm looking to collaborate on Machine Learning & Web based AI Projects
 - 📫 You can reach me out through my email. muhammadnofal446@gmail.com & github Muhammad-Nofal446
 
 <!---
